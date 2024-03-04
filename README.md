@@ -14,9 +14,8 @@
 </h1>
 
 <div align="center">
-  I'm an upcoming full-stack software engineer based in New York City. I've successfully completed App Academy's intensive on-site full-time course, learning a range of     
-  relevant technologies highly sought after by today's recruiters. Outside of coding, I enjoy gaming, various sports, and learning how to cook. Let's meet up, cooperate, and     
-  engineer together!
+  I'm an upcoming full-stack software engineer based in New York City. I've completed App Academy's intensive on-site full-time course, learning a range of relevant technologies highly sought after by today's 
+  recruiters. Outside of coding, I enjoy gaming, various sports, and learning how to cook. Let's meet up, cooperate, and engineer together!
 </div>
 
 <h1 align="center">My Role and Current Focus 🎯</h1>
