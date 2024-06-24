@@ -24,7 +24,7 @@
   <br></br>
   I am currently working on an Amazon clone called Amazeon! 🛒
   <br></br>
-  I am currently learning relevant coding languages and technologies! 💡
+  I am currently learning relevant coding languages and technologies such as Python! 💡
 </div>
 
 <h1 align="center">My Technologies 🧰 </h1>
