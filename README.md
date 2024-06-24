@@ -1,4 +1,4 @@
-<h1 align="center">Greetings All, I'm Jason! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Greetings, I'm Jason! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <div align="center">
   <img src="https://github.com/Helionster/Helionster/blob/main/Software Engineer Gif.gif?raw=true" width="600" height="420"/>
