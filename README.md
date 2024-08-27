@@ -22,7 +22,7 @@
 <div align="center">
   I am a Fullstack Software Engineer from New York City!  💻
   <br></br>
-  I am currently an intern at Headstarter AI learning about OpenAI and technologies revolving around AI!
+  I am currently an intern at Headstarter AI learning about OpenAI and technologies revolving around AI! 🤖
   <br></br>
   I am currently learning relevant coding languages and technologies such as Python! 💡
 </div>
