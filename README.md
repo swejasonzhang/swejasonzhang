@@ -52,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />&nbsp;
   <!-- Ruby (red) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" title="Ruby" />&nbsp;
-  <!-- Express.js (green) - replaced black version with green -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" title="Express" />
   <!-- Next.js (dark gray but not black, changed to colored alt) -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="40" height="40" title="Next" />
   <!-- MongoDB (green) -->
