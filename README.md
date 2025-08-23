@@ -3,7 +3,7 @@
   Hi, I'm Jason Zhang 👋
 </h1>
 <p align="center" style="font-size: 20px; color: #666; max-width: 700px; margin: 0 auto;">
-  Full-Stack Software Engineer | Mobile Tech Enthusiast | Lifelong Learner<br />
+  Full-Stack Software Engineer and Lifelong Learner<br />
   Focused on mastering my craft and leveling up through solo challenges and meaningful projects.  
   <br /><br />
 </p>
@@ -29,7 +29,6 @@
 </h2>
 <div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 40px;">
   <p>💻 Build full-stack web applications using React, Node.js, Express, and MongoDB</p>
-  <p>📱 Develop mobile apps and explore new mobile tech as an intern at Leechy</p>
   <p>🐍 Use Python to automate, analyze, and optimize backend workflows</p>
   <p>⚙️ Focus on clean code, performance, and collaborative development</p>
   <p>🌱 Commit to ongoing learning and adapting to evolving technologies</p>
@@ -73,7 +72,6 @@
   Featured Projects
 </h2>
 <div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 60px;">
-  <p><strong>Leechy Mobile App</strong> — Internship project focusing on cutting-edge mobile technologies to deliver seamless user experiences.</p>
   <p><strong>Personal Portfolio</strong> — Showcases my journey, skills, and projects built with React and Next.js.</p>
   <p><strong>Python Automation Tools</strong> — Scripts developed to optimize workflows and automate repetitive tasks.</p>
   <p>Check out my repositories on <a href="https://github.com/swejasonzhang" target="_blank" rel="noopener noreferrer">GitHub</a> for more!</p>
