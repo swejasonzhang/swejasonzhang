@@ -73,6 +73,9 @@
 <h2 align="center" style="font-weight: 700; font-size: 36px; margin-bottom: 20px;">
   Let’s Connect
 </h2>
+<div align="center" style="margin: 40px 0;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBwMHJ1b3dpODljMTFhNjh1eW1nMnhmY3ZpdHo0bXgxeXd0N2dndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"/>
+</div>
 <p align="center" style="font-size: 18px; color: #444; max-width: 680px; margin: 0 auto 60px;">
   Whether you want to collaborate, discuss tech, or chat about tattoos, I’m open to connecting!<br /><br />
   ✉️ <strong>Email:</strong> <a href="mailto:swejasonzhang@gmail.com">swejasonzhang@gmail.com</a><br />
