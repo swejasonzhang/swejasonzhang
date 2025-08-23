@@ -3,9 +3,9 @@
   Hi, I'm Jason Zhang 👋
 </h1>
 <p align="center" style="font-size: 20px; color: #666; max-width: 700px; margin: 0 auto;">
-  Full-Stack Software Engineer and Lifelong Learner<br />
-  Focused on mastering my craft and leveling up through solo challenges and meaningful projects.  
-  <br /><br />
+  Full-Stack Software Engineer, Lifelong Learner, and Tattoo Enthusiast<br />
+  Currently building a full-stack platform around tattoos — combining my love for design, creativity, and coding!<br />
+  Passionate about solving challenging problems on LeetCode and celebrating those "aha!" moments.  
 </p>
 
 <!-- Hero Image Section -->
@@ -19,8 +19,8 @@
 </h2>
 <p align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 40px;">
   I’m a Full-Stack Software Engineer based in New York City, trained at App Academy’s immersive program.  
-  I’m driven by the challenge of solo problem-solving and continuous self-improvement, building reliable, scalable applications along the way.  
-  Outside of coding, I enjoy gaming, staying active, and experimenting in the kitchen — always learning, always growing.
+  I thrive on solo problem-solving, whether it's building scalable applications or tackling tricky algorithm challenges.  
+  Outside of coding, I enjoy gaming, staying active, experimenting in the kitchen, and exploring new tattoo ideas — always learning, always growing.
 </p>
 
 <!-- What I Do Section -->
@@ -28,8 +28,10 @@
   What I Do
 </h2>
 <div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 40px;">
-  <p>💻 Build full-stack web applications using React, Node.js, Express, and MongoDB</p>
+  <p>💻 Build full-stack web applications using React, Next.js, Node.js, Express, and MongoDB</p>
   <p>🐍 Use Python to automate, analyze, and optimize backend workflows</p>
+  <p>🎨 Currently developing a tattoo-focused platform — merging tech with creativity</p>
+  <p>🧠 Love grinding LeetCode problems and celebrating the joy of understanding solutions</p>
   <p>⚙️ Focus on clean code, performance, and collaborative development</p>
   <p>🌱 Commit to ongoing learning and adapting to evolving technologies</p>
 </div>
@@ -39,27 +41,16 @@
   Tech Stack
 </h2>
 <div align="center" style="margin-bottom: 40px;">
-  <!-- React (blue) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />&nbsp;
-  <!-- Redux (purple) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="Redux" />&nbsp;
-  <!-- JavaScript (yellow) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />&nbsp;
-  <!-- Node.js (green) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
-  <!-- Python (blue/yellow) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />&nbsp;
-  <!-- Ruby (red) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" title="Ruby" />&nbsp;
-  <!-- Next.js (dark gray but not black, changed to colored alt) -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="40" height="40" title="Next" />
-  <!-- MongoDB (green) -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
-  <!-- Firebase (orange/yellow) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
-  <!-- AWS (orange) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" title="AWS" />
-  <!-- VSCode (blue) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" title="AWS" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" title="VSCode" />
 </div>
 
@@ -72,9 +63,10 @@
   Featured Projects
 </h2>
 <div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 60px;">
-  <p><strong>Personal Portfolio</strong> — Showcases my journey, skills, and projects built with React and Next.js.</p>
-  <p><strong>Python Automation Tools</strong> — Scripts developed to optimize workflows and automate repetitive tasks.</p>
-  <p>Check out my repositories on <a href="https://github.com/swejasonzhang" target="_blank" rel="noopener noreferrer">GitHub</a> for more!</p>
+  <p><strong>Personal Portfolio</strong> — My journey, skills, and projects built with React and Next.js. <a href="https://swejasonzhang.netlify.app/" target="_blank" rel="noopener noreferrer">View Live</a></p>
+  <p><strong>Python Automation Tools</strong> — Scripts developed to optimize workflows and automate repetitive tasks. <a href="https://github.com/swejasonzhang" target="_blank" rel="noopener noreferrer">View on GitHub</a></p>
+  <p><strong>For The Love of Tattoos</strong> — My current passion project: a full-stack platform celebrating tattoo art and culture. <a href="https://fortheloveoftattoos.vercel.app/" target="_blank" rel="noopener noreferrer">View Live</a></p>
+  <p>Explore more of my work on <a href="https://github.com/swejasonzhang" target="_blank" rel="noopener noreferrer">GitHub</a>!</p>
 </div>
 
 <!-- Contact Section -->
@@ -82,8 +74,9 @@
   Let’s Connect
 </h2>
 <p align="center" style="font-size: 18px; color: #444; max-width: 680px; margin: 0 auto 60px;">
-  Whether you want to collaborate or just chat tech, I’m open to connecting.  
-  <br /><br />
+  Whether you want to collaborate, discuss tech, or chat about tattoos, I’m open to connecting!<br /><br />
   ✉️ <strong>Email:</strong> <a href="mailto:swejasonzhang@gmail.com">swejasonzhang@gmail.com</a><br />
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/swejasonzhang" target="_blank" rel="noopener noreferrer">linkedin.com/in/swejasonzhang</a>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/swejasonzhang" target="_blank" rel="noopener noreferrer">linkedin.com/in/swejasonzhang</a><br />
+  🌐 <strong>Personal Website:</strong> <a href="https://swejasonzhang.netlify.app/" target="_blank" rel="noopener noreferrer">swejasonzhang.netlify.app</a><br />
+  🎨 <strong>Live Tattoo Project:</strong> <a href="https://fortheloveoftattoos.vercel.app/" target="_blank" rel="noopener noreferrer">fortheloveoftattoos.vercel.app</a>
 </p>
