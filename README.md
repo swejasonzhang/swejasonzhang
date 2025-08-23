@@ -10,7 +10,7 @@
 
 <!-- Hero Image Section -->
 <div align="center" style="margin: 40px 0;">
-  <img src="https://github.com/Helionster/Helionster/blob/main/Software%20Engineer%20Gif.gif?raw=true" alt="Software Engineer Animation" width="600" height="420" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hzM2lsYWl4amMzNDU1bXM0Y2ViZjd6YTczZmtnem43MDJzaWhxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
 <!-- About Me Section -->
