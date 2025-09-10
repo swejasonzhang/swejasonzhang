@@ -64,7 +64,7 @@
 </h2>
 <div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 60px;">
   <p><strong>Personal Portfolio</strong> — My journey, skills, and projects built with React and Next.js. <a href="https://swejasonzhang.netlify.app/" target="_blank" rel="noopener noreferrer">View Live</a></p>
-  <p><strong>For The Love of Tattoos</strong> — My current passion project: a full-stack platform celebrating tattoo art and culture. <a href="https://fortheloveoftattoos.vercel.app/" target="_blank" rel="noopener noreferrer">View Live</a></p>
+  <p><strong>Inkmity</strong> — My current passion project: a full-stack platform celebrating tattoo art and culture. <a href="https://inkmity.com" target="_blank" rel="noopener noreferrer">View Live</a></p>
 </div>
 
 <!-- Contact Section -->
@@ -79,5 +79,5 @@
   ✉️ <strong>Email:</strong> <a href="mailto:swejasonzhang@gmail.com">swejasonzhang@gmail.com</a><br />
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/swejasonzhang" target="_blank" rel="noopener noreferrer">linkedin.com/in/swejasonzhang</a><br />
   🌐 <strong>Personal Website:</strong> <a href="https://swejasonzhang.netlify.app/" target="_blank" rel="noopener noreferrer">swejasonzhang.netlify.app</a><br />
-  🎨 <strong>Live Tattoo Project:</strong> <a href="https://fortheloveoftattoos.vercel.app/" target="_blank" rel="noopener noreferrer">fortheloveoftattoos.vercel.app</a>
+  🎨 <strong>Live Tattoo Project:</strong> <a href="https://inkmity.com" target="_blank" rel="noopener noreferrer">inkmity.com</a>
 </p>
