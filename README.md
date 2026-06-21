@@ -1,83 +1,89 @@
-<!-- Introduction Section -->
-<h1 align="center" style="font-size: 40px; font-weight: 800;">
-  Hi, I'm Jason Zhang 👋
-</h1>
-<p align="center" style="font-size: 20px; color: #666; max-width: 700px; margin: 0 auto;">
-  Full-Stack Software Engineer, Lifelong Learner, and Tattoo Enthusiast<br />
-  Currently building a full-stack platform around tattoos — combining my love for design, creativity, and coding!<br />
-  Passionate about solving challenging problems on LeetCode and celebrating those "aha!" moments.  
+<h1 align="center">Hi, I'm Jason Zhang 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/swejasonzhang">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;MERN+%7C+Next.js+%7C+TypeScript+%7C+Python;Building+Inkmity+%E2%80%94+a+platform+for+tattoo+art;Lifelong+learner+%26+LeetCode+enthusiast" alt="Jason Zhang" />
+  </a>
 </p>
 
-<!-- Hero Image Section -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hzM2lsYWl4amMzNDU1bXM0Y2ViZjd6YTczZmtnem43MDJzaWhxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hzM2lsYWl4amMzNDU1bXM0Y2ViZjd6YTczZmtnem43MDJzaWhxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 </div>
 
-<!-- About Me Section -->
-<h2 align="center" style="font-weight: 700; font-size: 36px; margin-bottom: 12px;">
-  About Me
-</h2>
-<p align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 40px;">
-  I’m a Full-Stack Software Engineer based in New York City, trained at App Academy’s immersive program.  
-  I thrive on solo problem-solving, whether it's building scalable applications or tackling tricky algorithm challenges.  
-  Outside of coding, I enjoy gaming, staying active, experimenting in the kitchen, and exploring new tattoo ideas — always learning, always growing.
+## About Me
+
+<p align="center">
+  I'm a Full-Stack Software Engineer based in <b>New York City</b> with 2+ years of experience building
+  scalable MERN applications, sharpened through internships and an immersive program at App Academy.
+  I love turning hard problems into clean, performant solutions — and chasing the "aha!" moment on LeetCode.
+  Outside of code: gaming, staying active, cooking, and exploring new tattoo ideas. Always learning, always growing.
 </p>
 
-<!-- What I Do Section -->
-<h2 align="center" style="font-weight: 700; font-size: 36px; margin-bottom: 12px;">
-  What I Do
-</h2>
-<div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 40px;">
-  <p>💻 Build full-stack web applications using React, Next.js, Node.js, Express, and MongoDB</p>
-  <p>🐍 Use Python to automate, analyze, and optimize backend workflows</p>
-  <p>🎨 Currently developing a tattoo-focused platform — merging tech with creativity</p>
-  <p>🧠 Love grinding LeetCode problems and celebrating the joy of understanding solutions</p>
-  <p>⚙️ Focus on clean code, performance, and collaborative development</p>
-  <p>🌱 Commit to ongoing learning and adapting to evolving technologies</p>
+## What I Do
+
+<div align="center">
+
+💻 &nbsp; Build full-stack web apps with React, Next.js, TypeScript, Node.js, Express & MongoDB  
+🎨 &nbsp; Develop **Inkmity** — a platform merging tech with tattoo art and community  
+🐍 &nbsp; Automate, analyze, and optimize backend workflows with Python  
+🧠 &nbsp; Grind LeetCode and obsess over the joy of understanding solutions  
+⚙️ &nbsp; Care deeply about clean code, performance, and collaborative development  
+🌱 &nbsp; Commit to continuous learning and adapting to evolving tech  
+
 </div>
 
-<!-- Tech Stack Section -->
-<h2 align="center" style="font-weight: 700; font-size: 36px; margin-bottom: 12px;">
-  Tech Stack
-</h2>
-<div align="center" style="margin-bottom: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="Redux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" title="Ruby" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" title="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" title="VSCode" />
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swejasonzhang&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="Jason's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swejasonzhang&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="Top languages" />
 </div>
 
-<div align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swejasonzhang&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=swejasonzhang&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </div>
 
-<!-- Featured Projects Section -->
-<h2 align="center" style="font-weight: 700; font-size: 36px; margin-bottom: 20px;">
-  Featured Projects
-</h2>
-<div align="center" style="max-width: 680px; font-size: 18px; color: #444; line-height: 1.6; margin: 0 auto 60px;">
-  <p><strong>Personal Portfolio</strong> — My journey, skills, and projects built with React and Next.js. <a href="https://swejasonzhang.netlify.app/" target="_blank" rel="noopener noreferrer">View Live</a></p>
-  <p><strong>Inkmity</strong> — My current passion project: a full-stack platform celebrating tattoo art and culture. <a href="https://inkmity.com" target="_blank" rel="noopener noreferrer">View Live</a></p>
+## Featured Projects
+
+<div align="center">
+
+🎨 &nbsp; **[Inkmity](https://inkmity.com)** — My passion project: a full-stack MERN platform celebrating tattoo art and connecting clients with artists.  
+🌐 &nbsp; **[Personal Portfolio](https://swejasonzhang.netlify.app/)** — My work, experience, and skills, built with Next.js, TypeScript & Framer Motion.  
+
 </div>
 
-<!-- Contact Section -->
-<h2 align="center" style="font-weight: 700; font-size: 36px; margin-bottom: 20px;">
-  Let’s Connect
-</h2>
-<div align="center" style="margin: 40px 0;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBwMHJ1b3dpODljMTFhNjh1eW1nMnhmY3ZpdHo0bXgxeXd0N2dndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"/>
+## Let's Connect
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBwMHJ1b3dpODljMTFhNjh1eW1nMnhmY3ZpdHo0bXgxeXd0N2dndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="320" />
 </div>
-<p align="center" style="font-size: 18px; color: #444; max-width: 680px; margin: 0 auto 60px;">
-  Whether you want to collaborate, discuss tech, or chat about tattoos, I’m open to connecting!<br /><br />
-  ✉️ <strong>Email:</strong> <a href="mailto:swejasonzhang@gmail.com">swejasonzhang@gmail.com</a><br />
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/swejasonzhang" target="_blank" rel="noopener noreferrer">linkedin.com/in/swejasonzhang</a><br />
-  🌐 <strong>Personal Website:</strong> <a href="https://swejasonzhang.netlify.app/" target="_blank" rel="noopener noreferrer">swejasonzhang.netlify.app</a><br />
-  🎨 <strong>Live Tattoo Project:</strong> <a href="https://inkmity.com" target="_blank" rel="noopener noreferrer">inkmity.com</a>
+
+<p align="center">
+  Want to collaborate, talk tech, or chat tattoos? I'm always open to connecting.
+</p>
+
+<p align="center">
+  <a href="mailto:swejasonzhang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/swejasonzhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/swejasonzhang"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://swejasonzhang.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
