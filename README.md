@@ -60,20 +60,8 @@
 <div align="center">
 
 🎨 &nbsp; **[Inkmity](https://inkmity.com)** — My passion project: a full-stack MERN platform celebrating tattoo art and connecting clients with artists.  
-🛒 &nbsp; **[Amazeon](https://github.com/swejasonzhang/FullStack)** — An Amazon marketplace clone (Ruby on Rails API + React, TypeScript, Redux Toolkit & Tailwind) with auth, cart, reviews, and checkout.  
 🌐 &nbsp; **[Personal Portfolio](https://swejasonzhang.netlify.app/)** — My work, experience, and skills, built with Next.js, TypeScript & Framer Motion.  
 
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swejasonzhang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="Jason's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swejasonzhang&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=swejasonzhang&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </div>
 
 ## Let's Connect
