@@ -13,9 +13,11 @@
 ## About Me
 
 <p align="center">
-  I'm a Full-Stack Software Engineer based in <b>New York City</b> with 2+ years of experience building
-  scalable web applications across the <b>MERN stack</b> and <b>Ruby on Rails</b>, sharpened through
-  internships and an immersive program at App Academy. I love turning hard problems into clean, performant
+  I'm a full-stack engineer based in <b>New York City</b>, finishing a B.S. in Computer Science at
+  <b>Queens College (CUNY)</b>. I've shipped at three early-stage startups since 2024, two of them as an
+  intern, and I build and run <b>Inkmity</b> as its only engineer — a booking platform that has been live
+  on Stripe since July 2026. Mostly <b>TypeScript</b>, <b>Node</b> and <b>React</b> these days, with
+  <b>Ruby on Rails</b> from my App Academy days. I love turning hard problems into clean, performant
   solutions — and chasing the "aha!" moment on LeetCode. Outside of code: gaming, staying active, cooking,
   and exploring new tattoo ideas. Always learning, always growing.
 </p>
