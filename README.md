@@ -64,6 +64,14 @@
 
 </div>
 
+## LeetCode
+
+<div align="center">
+
+🧩 &nbsp; **[leetcode.com/u/swesololeveling](https://leetcode.com/u/swesololeveling/)** — my profile is public, if you'd like to see what I'm working through.
+
+</div>
+
 ## Let's Connect
 
 <div align="center">
@@ -79,4 +87,5 @@
   <a href="https://www.linkedin.com/in/swejasonzhang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/swejasonzhang"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://swejasonzhang.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/swesololeveling/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
