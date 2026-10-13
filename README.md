@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/swejasonzhang">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Node+%7C+Rails;Building+Inkmity+%E2%80%94+a+platform+for+tattoo+art;Lifelong+learner+%26+LeetCode+enthusiast" alt="Jason Zhang" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Node+%7C+Rails;Building+Inkmity+%E2%80%94+booking+for+tattoo+artists;Open+to+SWE+internships+%26+co-ops" alt="Jason Zhang" />
   </a>
 </p>
 
@@ -13,13 +13,15 @@
 ## About Me
 
 <p align="center">
-  I'm a full-stack engineer based in <b>New York City</b>, finishing a B.S. in Computer Science at
-  <b>Queens College (CUNY)</b>. I've shipped at three early-stage startups since 2024, two of them as an
-  intern, and I build and run <b>Inkmity</b> as its only engineer — a booking platform that has been live
-  on Stripe since July 2026. Mostly <b>TypeScript</b>, <b>Node</b> and <b>React</b> these days, with
-  <b>Ruby on Rails</b> from my App Academy days. I love turning hard problems into clean, performant
-  solutions — and chasing the "aha!" moment on LeetCode. Outside of code: gaming, staying active, cooking,
-  and exploring new tattoo ideas. Always learning, always growing.
+  I'm a software engineer in <b>New York City</b>, studying for a B.S. in Computer Science at
+  <b>Queens College (CUNY)</b>, expected June 2028. My classes are in the evening, so I'm available now for a
+  software engineering internship or co-op. I founded <b>Inkmity</b>, a booking app for independent tattoo
+  artists that has been live with Stripe payments since July 2026. I built its first version myself, and
+  since June 2026 I build it with <b>Claude Code</b>, an AI coding agent, testing and approving every release.
+  Before that I was a Software Engineer Intern at <b>Series</b>, wrote Python data automation on contract for
+  <b>Move Tact Management</b>, and was a Software Engineering Fellow at <b>Headstarter AI</b>. Mostly
+  <b>TypeScript</b>, <b>Node</b> and <b>React</b> these days, with <b>Ruby on Rails</b> from my App Academy days.
+  Outside of code: gaming, staying active, cooking, and exploring new tattoo ideas.
 </p>
 
 ## What I Do
@@ -28,8 +30,8 @@
 
 💻 &nbsp; Build full-stack web apps with React, Next.js, TypeScript, Node.js, Express & MongoDB  
 🛠️ &nbsp; Ship end-to-end features on Ruby on Rails + PostgreSQL APIs with React front ends  
-🎨 &nbsp; Develop **Inkmity** — a platform merging tech with tattoo art and community  
-🐍 &nbsp; Automate, analyze, and optimize backend workflows with Python  
+🎨 &nbsp; Run **Inkmity**, a booking tool that turns an artist's Instagram DMs into organized bookings  
+🐍 &nbsp; Automate reporting and file workflows with Python, Google Sheets, Google Drive and Slack  
 🧠 &nbsp; Grind LeetCode and obsess over the joy of understanding solutions  
 ⚙️ &nbsp; Care deeply about clean code, performance, and collaborative development  
 🌱 &nbsp; Commit to continuous learning and adapting to evolving tech  
@@ -52,8 +54,9 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -61,8 +64,11 @@
 
 <div align="center">
 
-🎨 &nbsp; **[Inkmity](https://inkmity.com)** — My passion project: a full-stack MERN platform celebrating tattoo art and connecting clients with artists.  
-🌐 &nbsp; **[Personal Portfolio](https://swejasonzhang.netlify.app/)** — My work, experience, and skills, built with Next.js, TypeScript & Framer Motion.  
+🎨 &nbsp; **[Inkmity](https://inkmity.com)** — A live booking app for independent New York tattoo artists: one link in an artist's Instagram bio holds their portfolio, deposit, waiver and calendar. React, TypeScript, Node, Express, MongoDB and Stripe.  
+🏋️ &nbsp; **[Arc](https://getarc.health)** — A webcam range-of-motion coach my team of three built in 48 hours at Hackknight 2026. I built the web app and API with Claude Code. [Source](https://github.com/swejasonzhang/Hackknight2026)  
+🛒 &nbsp; **[Amazeon](https://github.com/swejasonzhang/FullStack)** — My solo App Academy capstone, an online store on Ruby on Rails, PostgreSQL, React and Redux.  
+🌍 &nbsp; **[Bonjour World](https://bonjourworld.onrender.com/)** — A four-person App Academy app for language exchange events; I built the address autocomplete, image upload, search and attendee list.  
+🌐 &nbsp; **[Personal Portfolio](https://swejasonzhang.netlify.app/)** — My work and experience, built with Next.js, TypeScript and Framer Motion, with Claude Code.  
 
 </div>
 
