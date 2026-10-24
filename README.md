@@ -10,11 +10,23 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hzM2lsYWl4amMzNDU1bXM0Y2ViZjd6YTczZmtnem43MDJzaWhxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 </div>
 
+## About Me
+
 <p align="center">
   Software engineer in <b>New York City</b> · B.S. Computer Science, <b>Queens College (CUNY)</b>, 2028<br />
   Founder of <b>Inkmity</b> · Previously at <b>Series</b>, <b>Move Tact Management</b> and <b>Headstarter AI</b><br />
   <b>Available for any opportunities.</b>
 </p>
+
+<div align="center">
+
+🔭 &nbsp; Building **Inkmity**: one link in a tattoo artist's Instagram bio that handles the booking, waiver and deposit  
+🌱 &nbsp; Learning **Java + Spring Boot** and **C++**  
+⚡ &nbsp; Built a webcam workout coach in 48 hours at Hackknight 2026  
+🧩 &nbsp; Grinding LeetCode, one level at a time  
+🎮 &nbsp; Off the keyboard: gaming, cooking, staying active and exploring new tattoo ideas  
+
+</div>
 
 ## Projects
 
@@ -53,6 +65,14 @@
 </p>
 
 ## Connect
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBwMHJ1b3dpODljMTFhNjh1eW1nMnhmY3ZpdHo0bXgxeXd0N2dndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="320" />
+</div>
+
+<p align="center">
+  Want to build something, talk tech or chat tattoos? My inbox is open.
+</p>
 
 <p align="center">
   <a href="mailto:swejasonzhang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
