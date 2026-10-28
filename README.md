@@ -39,7 +39,7 @@
 | [Stay the Course](https://github.com/swejasonzhang/Stay-The-Course) | Investment portfolio checkup (in progress) | Java, Spring Boot |
 | [Amazeon](https://github.com/swejasonzhang/FullStack) | Online store, App Academy capstone | Rails, PostgreSQL, React, Redux |
 | [Bonjour World](https://bonjourworld.onrender.com/) | Language exchange events app (team of 4) | MongoDB, Express, React, Node |
-| [Portfolio](https://swejasonzhang.netlify.app/) | My personal site | Next.js, TypeScript, Framer Motion |
+| [Portfolio](https://swejasonzhang.netlify.app/) | My personal site | Next.js, TypeScript, Tailwind CSS |
 
 </div>
 
